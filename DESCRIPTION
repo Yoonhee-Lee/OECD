@@ -1,0 +1,15 @@
+Package: OECD
+Type: Package
+Title: OECD
+Version: 0.1.0
+Author: Yoonhee Lee
+Maintainer: Yoonhee Lee <yh0728@ucla.edu>
+Description: Using OECD data get to know various information
+License: Yoonhee Lee
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.1.1
